@@ -1,0 +1,28 @@
+.row_style {
+  margin-top: 12%;
+}
+
+.btn-plain {
+  background-color: white;
+  border: 1px #39917d solid;
+  color: #39917d;
+}
+
+.btn-hover:hover {
+  background-color: #39917d;
+  color: white;
+}
+
+.add_icon {
+  font-size: 50px;
+  color: #39917d;
+}
+
+.add_icon:hover {
+  cursor: pointer;
+}
+
+.bottom_align {
+  margin-right: -5%;
+  margin-top: 11%;
+}

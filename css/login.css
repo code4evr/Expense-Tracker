@@ -1,0 +1,26 @@
+/* ******LOGIN.PHP CSS******** */
+
+.panel-default > .panel-heading {
+  background-color: #39917d;
+  color: white;
+}
+
+.row_style {
+  margin-top: 12%;
+}
+
+.text-header {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+/* ******SIGNUP.PHP CSS******** */
+.signup_row_style {
+  margin-top: 8%;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
