@@ -39,8 +39,8 @@ session_start();
     <div class="row">
       <div class="col-xs-6">
         <h2>Contact Us</h2>
-        <h5><strong>Email: </strong>trainings@internshala.com</h3>
-        <h5><strong>Mobile: </strong>+91-8448444853</h3>
+        <h5><strong>Email: </strong>bidit.upadhyay7@gmail.com</h3>
+        <h5><strong>Mobile: </strong>+91-7500521447</h3>
       </div>
     </div>
   </div>
